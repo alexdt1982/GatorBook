@@ -1,6 +1,6 @@
 # Gator Book
 ## Authors:
 - Michel Gonzalez
-- Team member one enter name here
-- Team member two enter name here
+- Nam (Alex) Tran
+- Huan (Nicholas) Tran
 - Team member three enter name here
